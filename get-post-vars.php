@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="index.php" method="post"> 
+    <form action="get-post-vars.php" method="post"> 
         <label>quantity: </label><br>
         <input type="text" name="quantity">
         <input type="submit" value="total">
